@@ -1,0 +1,19 @@
+Prepare and Export Data: This data does not need any cleaning operation, but needs some tranformation
+	Divide the tweets into 3 groups:
+		1. Positive
+		2. Negative
+		3. Neutral
+	Find the best and the worst Airline in the month of February 2015
+	Find the common problems caused a bad flight. (For this, conder only the negative tweets)
+
+Model Training: It will consist to:
+	Train to classify the tweets into positive and negative
+	Train to classify the negative tweets on the reason
+
+
+
+Documents read:
+https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn
+
+https://www.nltk.org/_modules/nltk/classify/naivebayes.html
+
